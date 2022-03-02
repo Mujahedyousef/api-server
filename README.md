@@ -8,7 +8,7 @@
 |   Name |  Links  |
 |--- |--- |
 |  Heroku link |[Heroku link]()    |
-|  Actions |[Actions ]()   |
-|  PR | [Link PR]()  |
+|  Actions |[Actions ](https://github.com/Mujahedyousef/api-server/actions)   |
+|  PR | [Link PR](https://github.com/Mujahedyousef/api-server/pull/1)  |
 
 * Write a summary for this class later.  
