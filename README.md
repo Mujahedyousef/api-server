@@ -7,7 +7,7 @@
 
 |   Name |  Links  |
 |--- |--- |
-|  Heroku link |[Heroku link]()    |
+|  Heroku link |[Heroku link](https://api-server-mujahed.herokuapp.com/)    |
 |  Actions |[Actions ](https://github.com/Mujahedyousef/api-server/actions)   |
 |  PR | [Link PR](https://github.com/Mujahedyousef/api-server/pull/1)  |
 
