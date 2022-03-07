@@ -30,9 +30,9 @@ function start(port) {
     app.listen(port, () => console.log(`Running on Port ${port}`))
 }
 
-app.use('/', (req, res) => {
-    res.send('server is alive')
-})
+// app.use('/', (req, res) => {
+//     res.send('server is alive')
+// })
 app.use(errorHandler)
 app.use('*', notFound)
 
