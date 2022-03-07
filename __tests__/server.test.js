@@ -21,12 +21,12 @@ describe('testing API', () => {
     });
 
     it("test 404 on a bad route", async () => {
-        let response = await request.get('/notFound')
+        let response = await request.get('/vvv')
         expect(response.status).toEqual(404)
     });
 
     it("404 on a bad method", async () => {
-        let response = await request.head('/clothes')
+        let response = await request.patch('/clothes')
         expect(response.status).toEqual(404)
     });
 })
